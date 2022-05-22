@@ -1,0 +1,17 @@
+.navbar {
+    grid-area: navbar;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.item {
+    padding: 10px;
+}
+
+.item a {
+    color: white;
+}
+
+.item a.activeLink {
+    color: red;
+}
